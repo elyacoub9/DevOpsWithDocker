@@ -1,9 +1,10 @@
-```markdown
+```console
 [root@localhost ~]# docker stop 9b bf
 
 9b
 bf
-
+```
+```console
 [root@localhost ~]# docker ps -a
 CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                     PORTS     NAMES
 9bf0cabc6009   nginx     "/docker-entrypoint.…"   46 seconds ago       Exited (0) 3 seconds ago             practical_mestorf
