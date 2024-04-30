@@ -2,7 +2,7 @@
 docker build . -t web-server 
 ```
 
-```console
 
+```console
 docker run web-server
 ```
